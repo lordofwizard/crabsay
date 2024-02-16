@@ -3,7 +3,7 @@
 
 ### Installation
 
-You can install CrabSay 🦀 using Cargo, the following instructions:  
+You can install CrabSay 🦀 using Cargo & Git, the following instructions:  
 1. Clone the repository
 ```bash
 git clone https://github.com/lordofwizard/crabsay
